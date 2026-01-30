@@ -1,0 +1,8 @@
+{
+  "name": "Amina Gulzar - Social Media Portfolio",
+  "description": "A high-end, animated professional portfolio for Amina Gulzar, Social Media Marketing Manager, featuring an integrated AI assistant for resume queries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
