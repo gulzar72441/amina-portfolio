@@ -257,7 +257,7 @@ const App: React.FC = () => {
           </motion.div>
           <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 1.2 }} className="lg:col-span-5 relative">
             <div className="relative z-10 w-full aspect-[4/5] rounded-[7rem] overflow-hidden group shadow-[80px_80px_160px_rgba(163,230,53,0.15)] bg-slate-100">
-              <img src="./Image.png" className="w-full h-full object-cover transition-all duration-1000 group-hover:scale-110" alt="Amina Gulzar" />
+              <img src="/Image.png" className="w-full h-full object-cover transition-all duration-1000 group-hover:scale-110" alt="Amina Gulzar" />
               <div className="absolute inset-0 bg-gradient-to-t from-white/95 via-transparent to-transparent"></div>
               <div className="absolute bottom-12 left-12 right-12 p-14 glass-card rounded-[5rem] border-lime-200 shadow-3xl">
                 <div className="flex items-center justify-between mb-6">
